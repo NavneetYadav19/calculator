@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background: grey;
 }
 
 .button {
@@ -11,6 +12,8 @@ body {
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
+  background-color: rgb(109, 184, 235);
+  font-weight: bolder;
 }
 
 .row {
